@@ -25,30 +25,7 @@
 
 ---
 
-## 📸 Screenshots
-
-### 📱 Mobile — `< 600px`
-> Layout em coluna, 1 card por linha
-
-![Mobile](screenshots/screenshot_mobile.png)
-
----
-
-### 💻 Tablet — `600px – 900px`
-> Layout em grade 2x2 com Wrap
-
-![Tablet](screenshots/screenshot_tablet.png)
-
----
-
-### 🖥️ Desktop — `> 900px`
-> Layout em linha, 4 cards lado a lado com Expanded
-
-![Desktop](screenshots/screenshot_desktop.png)
-
----
-
-## 🚀 Como executar
+# 🚀 Como executar
 
 ### Pré-requisitos
 
